@@ -2,7 +2,9 @@
 
 Text to Image generator based on DALL-E.
 
-# Prerequisites
+Reference [DALLE-Pytorch](https://github.com/lucidrains/DALLE-pytorch)
+
+## Prerequisites
 
 > Python 3.10.8
 
@@ -10,11 +12,11 @@ Text to Image generator based on DALL-E.
 
 > CUDA Toolkit 11.7
 
-# Setup
+## Setup
 
 Run `setup.bat` file.
 
-# Usage
+## Usage
 
 Training model
 
