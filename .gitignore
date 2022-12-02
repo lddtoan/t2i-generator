@@ -1,0 +1,6 @@
+/.venv
+/taming
+/models
+/dataset
+/outputs
+**/*.pt

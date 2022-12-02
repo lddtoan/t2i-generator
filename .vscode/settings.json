@@ -1,0 +1,5 @@
+{
+    "editor.rulers": [80],
+    "editor.formatOnSave": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
